@@ -2,9 +2,12 @@
 <div align=center>
   
 ## 🙋‍♀️Introduce 
-열정과 학습에 헌신하는 백엔드 신입 개발자입니다. </br>
-항상 새로운 도전을 환영하며, 학습과 성장을 중요하게 생각합니다. </br>
-문제 해결 과정에서 끈기와 열정으로 오뚝이처럼 빠르게 일어나서 배우고 성장하고자 노력하고 있습니다. </br>
+안녕하세요, 백엔드 신입 개발자 이혜령 입니다. </br>
+항상 열정적으로 학습과 성장에 헌신하며 새로운 도전을 즐깁니다.  </br>
+그 날 공부한 내용은 바로 블로그에 기록하고 학습함과 동시에  </br>
+에러노트를 만들어 문제 해결 과정을 정리합니다. </br>
+끈기와 열정으로 오뚝이처럼 어떤 어려움에도 빠르게 일어나서</br>
+배우고 성장하는 노력을 기울이고 있습니다.</br>
 <br>
 <a href="https://blog.naver.com/hyero_world"><img src="https://img.shields.io/badge/blog-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
 <a href="https://www.notion.so/hyeroworld/f190f90c06e646b69fb6dccb5b76906d"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
