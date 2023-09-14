@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+Back-end Engineer HyeLyung, 오뚜기 같은 개발자
+<hr>
+<li>열정과 학습에 헌신하는 백엔드 신입 개발자입니다</li>
+<li>항상 새로운 도전을 환영하며, 학습과 성장을 중요하게 생각합니다.</li>
+<li>문제 해결 과정에서 끈기와 열정으로 오뚝이처럼 빠르게 일어나서 배우고 성장하고자 노력하고 있습니다.</li>
 <!--
 **HyelyungLee/HyelyungLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
