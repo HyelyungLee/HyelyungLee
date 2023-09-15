@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Back-End%20Engineer%20HyeLyung&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Back-End%20Engineer%20HyeLyung&fontSize=30)
 <div align=center>
   
 ## 🙋‍♀️Introduce 
