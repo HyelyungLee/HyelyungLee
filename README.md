@@ -10,8 +10,7 @@
 배우고 성장하는 노력을 기울이고 있습니다.</br>
 <br>
 <a href="https://blog.naver.com/hyero_world"><img src="https://img.shields.io/badge/blog-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
-<a href="https://www.notion.so/hyeroworld/f190f90c06e646b69fb6dccb5b76906d"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
-<br><br><br>
+<br>
 ## 👩‍💻Skill
 <img src="https://img.shields.io/badge/Java-006600?style=flat&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
@@ -20,6 +19,5 @@
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
-
 </div>
-<br><br>
+<br>
