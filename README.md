@@ -1,6 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Back-End%20Engineer%20HyeLyung&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=Back-End%20Engineer%20HyeLyung&fontSize=30)
 <div align=center>
-  
 ## 🙋‍♀️Introduce 
 안녕하세요, 백엔드 신입 개발자 이혜령 입니다. </br>
 항상 열정적으로 학습과 성장에 헌신하며 새로운 도전을 즐깁니다.  </br>
@@ -20,4 +19,3 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
 </div>
-<br>
