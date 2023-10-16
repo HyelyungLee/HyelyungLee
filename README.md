@@ -1,16 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=Back-End%20Engineer%20HyeLyung&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=도전의%20연속,%20꿈이%20있는%20오뚝이%20개발자&fontSize=30)
 <div align=center>
 
   ## 🙋‍♀️Introduce 
   
-안녕하세요, 백엔드 신입 개발자 이혜령 입니다. </br>
-항상 열정적으로 학습과 성장에 헌신하며 새로운 도전을 즐깁니다.  </br>
-그 날 공부한 내용은 바로 블로그에 기록하고 학습함과 동시에  </br>
-에러노트를 만들어 문제 해결 과정을 정리합니다. </br>
-끈기와 열정으로 오뚝이처럼 어떤 어려움에도 빠르게 일어나서</br>
-배우고 성장하는 노력을 기울이고 있습니다.</br>
-<br>
-<a href="https://blog.naver.com/hyero_world"><img src="https://img.shields.io/badge/blog-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
+안녕하세요, 오뚝이 같은 백엔드 신입 개발자 이혜령 입니다. </br>
+끈기와 열정으로 오뚝이처럼 어떤 어려움에도 빠르게 일어나서 배우고 성장하는 노력을 기울이고 있습니다. </br>
+공부한 내용과 발생한 에러들을 개인 [블로그](https://blog.naver.com/hyero_world)에 정리하고 기록합니다. </br>
 <br>
 ## 👩‍💻Skill
 <img src="https://img.shields.io/badge/Java-006600?style=flat&logo=Java&logoColor=white"/>
